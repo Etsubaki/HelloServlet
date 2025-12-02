@@ -12,7 +12,9 @@ pageEncoding="UTF-8"%>
 
 	<input type = "button" value = "WelcomeServlet" onClick = "location.href = 'welcome.jsp'">
 
-	<input type  ="button" value  ="問い合わせ" onClick = "location.href = 'inquiry.jsp'">
+	<input type = "button" value = "問い合わせ" onClick = "location.href = 'inquiry.jsp'">
+
+	<input type = "button" value = "MySQLServlet" onClick = "location.href = 'MySQLServlet'">
 
 	<br>
 	GET通信
